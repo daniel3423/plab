@@ -1,4 +1,4 @@
-#Guss the number
+#Guess the number
 import random
 
 N = 100
